@@ -1,10 +1,10 @@
-# Foriamos Main
-## Foriamos 1
-### Foriamos 2
+# Example of README.md
+## Example of README.md 1
+### Example of README.md 2
 
-*Foriamos*
+*Example of README.md*
 
-~~Foriamos test~~
+~~Example of README.md~~
 
 🐲
 
